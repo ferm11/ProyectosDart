@@ -119,7 +119,7 @@ Se adjunta la carpeta del proyecto en el repositorio.
 
 # Aplicación ddi_phone
 
-Se adjunta la carpeta del proyecto en el repositorio.
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/c276b785-77d4-438f-8ddb-256f0c463656">
 
 # Enlace del repositorio de GitHub wearable
 
