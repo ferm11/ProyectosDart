@@ -2,10 +2,10 @@
 
 Datos del alumno
 
-Nombre: Fernando Mendoza Garcia
-Grupo: GIDS4092
-Materia: Desarrollo de Dispositivos Inteligentes
-Unidad: II
+## Nombre: Fernando Mendoza Garcia
+## Grupo: GIDS4092
+## Materia: Desarrollo de Dispositivos Inteligentes
+## Unidad: II
 
 Actividades
 
