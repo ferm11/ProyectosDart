@@ -5,6 +5,7 @@
 - **Nombre:** Fernando Mendoza Garcia
 - **Numero de control:** 1221100297
 - **Grupo:** GIDS4092
+- **Profesor:** Anastacio Rodriguez Garcia
 - **Materia:** Desarrollo de Dispositivos Inteligentes
 - **Unidad:** II
 
