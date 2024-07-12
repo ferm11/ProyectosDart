@@ -111,11 +111,15 @@ Si nota el cambio de terminal, lo tuve que correr con el comando dart run, ya qu
 
 # Aplicación Hello World
 
-Se adjunta la carpeta en el repositorio.
+Se adjunta la carpeta del proyecto en el repositorio.
 
 # Aplicación YesOrNo
 
-Se adjunta la carpeta en el repositorio.
+Se adjunta la carpeta del proyecto en el repositorio.
+
+# Aplicación ddi_phone
+
+Se adjunta la carpeta del proyecto en el repositorio.
 
 # Enlace del repositorio de GitHub wearable
 
